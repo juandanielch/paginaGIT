@@ -1,0 +1,35 @@
+commit 392935147cafa334a06e9c5a3662f9bb75c5390c
+Author: Daniel Chavez <Daniel Chavez>
+Date:   Thu Oct 13 10:37:58 2016 -0600
+
+    Comandos de git
+
+commit c8407bcc8040078459503eb8d21ea37fc3720af2
+Author: Daniel Chavez <Daniel Chavez>
+Date:   Tue Oct 11 10:56:31 2016 -0600
+
+    derechos de autor
+
+commit dc526c47bda6d0e2dffd7207a96c609aecc49fce
+Author: Daniel Chavez <Daniel Chavez>
+Date:   Tue Oct 11 10:53:38 2016 -0600
+
+    imagen
+
+commit 7449918f23bebc4d8e75b93de46d19ecfb3e7210
+Author: Daniel Chavez <Daniel Chavez>
+Date:   Tue Oct 11 10:47:35 2016 -0600
+
+    agrega texto
+
+commit f68e1a3736e0311f80e63c73d2c8a2d37380fcc7
+Author: Daniel Chavez <Daniel Chavez>
+Date:   Tue Oct 11 10:42:33 2016 -0600
+
+    titulo de la pagina
+
+commit c561e85413dd54abff671373abfacd0ddd646879
+Author: Daniel Chavez <Daniel Chavez>
+Date:   Mon Oct 10 10:54:56 2016 -0600
+
+    mensaje
